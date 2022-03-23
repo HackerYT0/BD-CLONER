@@ -18,7 +18,7 @@ git clone https://github.com/HackerYT0/BD-CLONER
 
 # For Run
 
-cd Bd-Cloner
+cd BD-CLONER
 
-python2 Bd-Cloner.py
+python2 Bd-Cloner-1.py
 
