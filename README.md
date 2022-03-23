@@ -14,7 +14,7 @@ pip2 install mechanize
 
 pip install mechanize
 
-git clone https://github.com/Khalid2009sm/Bd-Cloner
+git clone https://github.com/HackerYT0/BD-CLONER
 
 # For Run
 
